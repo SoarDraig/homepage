@@ -7,7 +7,7 @@ export default defineAppConfig({
             {
                 title: 'Blog',
                 icon: ['fas', 'blog'],
-                href: 'https://note.stalomeow.com',
+                href: 'https://blog.SoarDraig.top',
             },
             {
                 title: 'GitHub',
