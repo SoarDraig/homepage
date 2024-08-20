@@ -10,6 +10,11 @@ export default defineAppConfig({
                 href: 'https://blog.soardraig.top/blog',
             },
             {
+                title: 'Notes',
+                icon: ['fas', 'sticky-note'],
+                href: 'https://blog.soardraig.top/docs',
+            },
+            {
                 title: 'GitHub',
                 icon: ['fab', 'github'],
                 href: 'https://github.com/SoarDraig',
@@ -23,11 +28,6 @@ export default defineAppConfig({
                 title: 'Steam',
                 icon: ['fab', 'steam'],
                 href: 'https://steamcommunity.com/id/SoarDraig/',
-            },
-            {
-                title: 'E-Mail',
-                icon: ['fas', 'envelope'],
-                href: 'mailto:wildragon1314@gmail.com',
             },
             {
                 title: 'QQ',
