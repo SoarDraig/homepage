@@ -62,7 +62,7 @@ watchPostEffect(() => {
 /* 设置用户头像的样式 */
 .avatar {
     border-radius: 9999px;
-    outline: 25rem solid var(--bg-color-secondary);
+    outline: 20rem solid var(--bg-color-secondary);
     width: 12rem;
     height: 12rem;
     vertical-align: middle;
