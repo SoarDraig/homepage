@@ -2,7 +2,8 @@ export default defineAppConfig({
     profile: {
         name: '云螭のDraig',
         userId: 'SoarDraig',
-        avatar: 'https://cdn.soardraig.top/img/homepage/avatar.png',
+        avatar: './img/avatar.png',
+        //avatar: 'https://cdn.soardraig.top/img/homepage/avatar.png',
         links: [
             {
                 title: 'Blog',
