@@ -8,12 +8,12 @@ export default defineAppConfig({
             {
                 title: 'Blog',
                 icon: ['fas', 'blog'],
-                href: 'https://blog.soardraig.top/blog',
+                href: 'https://blog.soardraig.com/blog',
             },
             {
                 title: 'Notes',
                 icon: ['fas', 'sticky-note'],
-                href: 'https://blog.soardraig.top/docs',
+                href: 'https://blog.soardraig.com/docs',
             },
             {
                 title: 'GitHub',
