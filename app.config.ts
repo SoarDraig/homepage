@@ -3,7 +3,7 @@ export default defineAppConfig({
         name: '云螭のDraig',
         userId: 'SoarDraig',
         //avatar: './img/avatar.png',
-        avatar: 'https://cdn.soardraig.top/img/homepage/avatar.png',
+        avatar: 'https://cdn.soardraig.top/img/homepage/NewAvator.jpg',
         links: [
             {
                 title: 'Blog',
@@ -15,11 +15,11 @@ export default defineAppConfig({
                 icon: ['fas', 'sticky-note'],
                 href: 'https://blog.soardraig.com/docs',
             },
-            {
-                title: 'GitHub',
-                icon: ['fab', 'github'],
-                href: 'https://github.com/SoarDraig',
-            },
+            // {
+            //     title: 'GitHub',
+            //     icon: ['fab', 'github'],
+            //     href: 'https://github.com/SoarDraig',
+            // },
             {
                 title: 'Bilibili',
                 icon: ['fab', 'bilibili'],
@@ -35,11 +35,11 @@ export default defineAppConfig({
                 icon: ['fab', 'qq'],
                 href: 'https://tool.gljlw.com/qqq/?qq=2593147206',
             },
-            {
-                title: 'Twitter',
-                icon: ['fab', 'twitter'],
-                href: 'https://twitter.com/9jHXww9u2D10025',
-            }
+            // {
+            //     title: 'Twitter',
+            //     icon: ['fab', 'twitter'],
+            //     href: 'https://twitter.com/9jHXww9u2D10025',
+            // }
         ],
         sponsor: {
             icon: ['fas', 'mug-saucer'],
